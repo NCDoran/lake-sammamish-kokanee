@@ -1,11 +1,13 @@
 name: "my-website"
 navbar:
-  title: "My Website"
+  title: "Lake Sammamish"
   right:
-    - text: "Home"
+    - text: "About Me"
       href: index.html
-    - text: "About"
+    - text: "Angler Survey"
       href: about.html
+     - text: "Kokanee Work Group"
+      href: kwg.html
 output_dir: "docs"
 output:
   html_document:
