@@ -2,9 +2,9 @@ name: "my-website"
 navbar:
   title: "Lake Sammamish"
   right:
-    - text: "About Me"
-      href: index.html
     - text: "Angler Survey"
+      href: index.html
+    - text: "About Me"
       href: about.html
     - text: "Kokanee Work Group"
       href: kwg.html
