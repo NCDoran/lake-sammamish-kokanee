@@ -6,7 +6,7 @@ navbar:
       href: index.html
     - text: "Angler Survey"
       href: about.html
-     - text: "Kokanee Work Group"
+    - text: "Kokanee Work Group"
       href: kwg.html
 output_dir: "docs"
 output:
